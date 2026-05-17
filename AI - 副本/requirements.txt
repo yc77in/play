@@ -1,0 +1,29 @@
+
+# 界面
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.18.0
+
+# 网络请求 / API
+requests==2.31.0
+volcengine-python-sdk==5.0.26
+
+# 系统交互
+pyperclip==1.11.0
+pyautogui==0.9.54
+pywin32==306
+winsdk==1.0.0b10
+psutil==5.9.8
+
+# 图片/音频
+Pillow==12.2.0
+pygame==2.6.1
+PyAudio==0.2.14
+soundfile==0.13.1
+sounddevice==0.5.5
+
+# 向量数据库 / 记忆
+chromadb==1.5.9
+
+# 工具
+python-dotenv==1.2.2

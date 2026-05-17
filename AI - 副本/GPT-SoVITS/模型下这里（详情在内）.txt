@@ -1,0 +1,2 @@
+D:\AI\GPT-SoVITS\v2\GPT-SoVITS-v2-240821\GPT-SoVITS-v2-240821
+如果下载下来，不是以上这个路径，请在tts插件里面更换成你的路径
